@@ -1,4 +1,4 @@
-# ecommerce_demo
+# ecommerce_demo_homepage
 Various components of ecommerce websites were made using HTML, CSS and JavaScript.
 E-commerce Website
 Welcome to my e-commerce website repository! This repository contains the source code and associated files for my client's store. In this README file, you will find important information about the project and instructions on how to set it up and run it locally.
